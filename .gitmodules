@@ -1,0 +1,3 @@
+[submodule "gymapp-ui"]
+	path = gymapp-ui
+	url = https://github.com/lightheimer/GYMAPP-UI.git
